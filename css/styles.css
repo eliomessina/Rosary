@@ -1,6 +1,7 @@
 body {
   margin: 0;
   font-family: 'Quicksand', sans-serif;
+  background-color: #FEE7D1;
 }
 
 h1 {
@@ -19,7 +20,7 @@ p {
 
 .mysteries {
   text-align: center;
-  height: 900px;
+  height: 1500px;
   background-color: #ffe7d1;
 }
 

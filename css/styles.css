@@ -98,9 +98,8 @@ a:link, a:visited {
   color: #ffe7d1;
   padding: 14px 16px;
   text-decoration: none;
-
+  display: block;
   font-size: 20px;
-  display: inline-block;
 }
 
 .a-home {
@@ -176,6 +175,8 @@ font-style: 500;
         color: white;
         display: inline-block;
       }
+
+
 
       .days {
         color: white;

@@ -20,7 +20,7 @@ p {
 
 .mysteries {
   text-align: center;
-  height: 1500px;
+  height: 1600px;
   background-color: #ffe7d1;
 }
 
@@ -100,7 +100,7 @@ a:link, a:visited {
   text-decoration: none;
 
   font-size: 20px;
-  display: block;
+  display: inline-block;
 }
 
 .a-home {
@@ -142,6 +142,13 @@ font-style: 500;
 @media  (max-width:1000px)
 
     {
+
+      .a-home {
+      float:left;
+      padding: 2% 3%;
+      font-size: 2rem;
+      }
+
       .mystery-img {
 
         width: 80%;
@@ -167,6 +174,7 @@ font-style: 500;
         display: block;
         text-align: center;
         color: white;
+        display: inline-block;
       }
 
       .days {
@@ -176,6 +184,8 @@ font-style: 500;
       #home {
       font-size: 6rem;
       font-style: 500;
+      display: inline-block;
+      /* text-align: left; */
       }
 
 

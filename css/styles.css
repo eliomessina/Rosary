@@ -20,7 +20,7 @@ p {
 
 .mysteries {
   text-align: center;
-  height: 1600px;
+  height: 1700px;
   background-color: #ffe7d1;
 }
 
@@ -49,7 +49,6 @@ a:link, a:visited {
 }
 
 .mystery-img {
-  /* height: 400px; */
   width: auto;
   height: 30%;
   padding-top: 4rem;
@@ -70,7 +69,6 @@ a:link, a:visited {
   width: 100%;
   margin: 0;
   position: absolute;
-
 }
 
 
@@ -85,7 +83,6 @@ a:link, a:visited {
   overflow: hidden;
   position: relative;
   font-family: 'Lora', serif;
-
 }
 
 /* Hide the links inside the navigation menu (except for logo/home) */
@@ -96,10 +93,10 @@ a:link, a:visited {
 /* Style navigation menu links */
 .topnav a {
   color: #ffe7d1;
-  padding: 14px 16px;
   text-decoration: none;
   display: block;
   font-size: 20px;
+  padding: 14px 16px;
 }
 
 .a-home {
@@ -109,7 +106,6 @@ a:link, a:visited {
 
 .days {
   color: #f6c89f;
-
   font-style: italic;
 }
 
@@ -158,7 +154,6 @@ font-style: 500;
 
       .madonna-img {
         height: 100rem;
-
       }
 
       h1 {
@@ -167,7 +162,6 @@ font-style: 500;
 
       /* Style the hamburger menu */
       .topnav a {
-
         padding: 5% 10%;
         font-size: 3.5rem;
         display: block;
@@ -175,7 +169,6 @@ font-style: 500;
         color: white;
         display: inline-block;
       }
-
 
 
       .days {
@@ -186,9 +179,12 @@ font-style: 500;
       font-size: 6rem;
       font-style: 500;
       display: inline-block;
-      /* text-align: left; */
+      text-align: left;
       }
 
+#myLinks {
+  text-align: center;
+}
 
 
 }

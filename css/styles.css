@@ -190,4 +190,12 @@ a:link, a:visited {
     top: 15px;
     right: 40px;
   }
+
+  h1 {
+    font-size: 3rem;
+  }
+
+  p {
+    font-size: 2rem;
+  }
 }

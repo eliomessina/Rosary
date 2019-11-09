@@ -6,15 +6,15 @@ body {
 
 h1 {
   color: #396362;
-  padding-top: 2rem;
+  padding-top: 1rem;
   font-family: 'Lora', serif;
-  font-size: 4rem;
+  font-size: 2rem;
 }
 
 p {
   color: #4b8e8d;
-  font-size: 1.5rem;
-  padding: 0.5rem 10rem;
+  font-size: 1.3rem;
+  padding: 0 10rem;
 }
 
 .mysteries {
@@ -52,9 +52,9 @@ a:link, a:visited {
 
 .mystery-img {
   width: auto;
-  height: 30%;
-  padding-top: 4rem;
-  padding-bottom: 2rem;
+  height: 25%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .title-page {
